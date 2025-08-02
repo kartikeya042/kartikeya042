@@ -6,7 +6,7 @@
 </br>
 I'm Kartikeya and I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.
 
-Um, I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
+"Um, I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." ~Chris Gardner
 
 <br clear="both">
 
