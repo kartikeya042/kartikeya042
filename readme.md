@@ -1,17 +1,22 @@
 # Hey👋! <br>Nice to meet You!!
 
 # ✏️ About Me:
-## <img align="left" height="300" style="margin-right: 1.5rem" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"  /> I'm Kartikeya and I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible. </br> Um, I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
+
+<img align="left" height="300" style="margin-right: 1.5rem" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"  />
+</br>
+I'm Kartikeya and I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.
+
+Um, I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
 
 <br clear="both">
 
-# 🌐 Socials:
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kartikeya_042/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-singh-5409b7292/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSfqRllqxjtMdjtMQHxqbchlbxKbtrfPsNKHxXVNKQgfGknLfxwwstpSJhbZlhWdsbSV)
 
-# 🏆 CP & DSA:
+## 🏆 CP & DSA:
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%234CC61E.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/kartikeyasingh042)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/kartikeya042/)
