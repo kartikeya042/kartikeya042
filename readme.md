@@ -4,7 +4,7 @@
 
 <img align="left" height="300" style="margin-right: 1.5rem" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"  />
 
-#### I'm Kartikeya and I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.
+#### I'm Kartikeya and I love competitive programming, DSA(to some extent😅) and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.
 
 #### "Um, I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." ~Chris Gardner
 
