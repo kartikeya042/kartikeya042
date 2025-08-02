@@ -39,13 +39,13 @@
 
 <div align="center">
   <a href="https://codeforces.com/profile/kartikeyasingh042" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%234CC61E.svg?logo=Codeforces&logoColor=white" height="35" alt="codeforces logo" />
+    <img src="https://img.shields.io/badge/Codeforces-%234CC61E.svg?logo=Codeforces&logoColor=white" height="40" alt="codeforces logo" />
   </a>
   <a href="https://leetcode.com/u/kartikeya042/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" height="35" alt="leetcode logo" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" height="40" alt="leetcode logo" />
   </a>
   <a href="https://www.codechef.com/users/kartikeya042" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23A52A2A.svg?logo=CodeChef&logoColor=white" height="35" alt="codechef logo" />
+    <img src="https://img.shields.io/badge/CodeChef-%23A52A2A.svg?logo=CodeChef&logoColor=white" height="40" alt="codechef logo" />
   </a>
 </div>
 
