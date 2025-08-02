@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Hi, I'm Kartikeya. I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.</h3>
+<h3 align="left">I'm Kartikeya and I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.</h3>
 
 ###
 
