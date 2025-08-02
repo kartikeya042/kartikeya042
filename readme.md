@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="left">CP & DSA🏆:</h1>
+<!--<h1 align="left">CP & DSA🏆:</h1>-->
 
 ###
 
