@@ -1,8 +1,4 @@
-<img align="left" height="320" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"  />
-
-###
-
-<h1 align="center">Hi👋! <br>Nice to meet You!!</h1>
+<h1 align="center">Hey👋! <br>Nice to meet You!!</h1>
 
 ###
 
@@ -10,9 +6,15 @@
 
 ###
 
-<h4 align="left">Hey, I'm Kartikeya Singh. I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.</h4>
+<img align="left" height="300" style="margin-right: 1.5rem" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"  />
 
 ###
+
+<h3 align="left">Hi, I'm Kartikeya. I love competitive programming and web development. Lately, I've been diving into machine learning, mostly just to see what's possible.</h3>
+
+###
+
+<br clear="both">
 
 <h1 align="left">Socials🌐:</h1>
 
@@ -40,7 +42,7 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif"  />
+<img align="right" height="215" src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif"  />
 
 ###
 
@@ -90,6 +92,8 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="left">Github Stats📊:</h1>
 
 ###
@@ -97,7 +101,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya042&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya042&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeya042&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
